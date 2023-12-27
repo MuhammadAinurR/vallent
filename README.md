@@ -1,3 +1,3 @@
 product-test
 <br>
-demo: vallent.streamlit.app
+demo: https://vallent.streamlit.app
